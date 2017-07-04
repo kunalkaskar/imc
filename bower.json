@@ -1,0 +1,26 @@
+{
+  "name": "imc",
+  "description": "IMC Website",
+  "main": "index.js",
+  "authors": [
+    "Kunal Kaskar"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Website",
+    "Animation"
+  ],
+  "homepage": "https://github.com/kunalkaskar/imc",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery.scrollbar": "https://github.com/gromo/jquery.scrollbar.git#^0.2.11",
+    "malihu-custom-scrollbar-plugin": "^3.1.5",
+    "bootstrap": "^3.3.7"
+  }
+}
